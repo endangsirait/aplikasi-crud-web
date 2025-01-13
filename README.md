@@ -25,8 +25,8 @@ CRUD merupakan singkatan dari Create, Read, Update, dan Delete. Operasi CRUD mer
 10. AJAX (Asynchronous JavaScript and XML), Membuat aplikasi web interaktif yang dapat melakukan operasi CRUD tanpa reload/refresh halaman menggunakan AJAX (Asynchronous JavaScript and XML)
 
     
+![ss data](https://github.com/user-attachments/assets/ecd9e902-8cfc-495d-8912-d60db8147b31)
 
-![fotooo sss](https://github.com/user-attachments/assets/8eb97e8f-b32b-4ee6-8019-c4029b311656)
 
 
 
